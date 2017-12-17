@@ -1,6 +1,3 @@
-# python -i 01\ first_class.py
-# -i - run the code and then drop into the interactive interpreter
-
 class MyFirstClass:
     pass
 
